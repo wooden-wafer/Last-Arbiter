@@ -1,9 +1,0 @@
-{
-  "name": "Last_Arbiter",
-  "version_number": "1.0.1",
-  "website_url": "https://www.nexusmods.com/hollowknightsilksong/mods/654",
-  "description": "Last Judge rework, now worthy of guarding The Citadel of Song.",
-  "dependencies": [
-    "BepInEx-BepInExPack_Silksong-5.4.2304"
-  ]
-}
